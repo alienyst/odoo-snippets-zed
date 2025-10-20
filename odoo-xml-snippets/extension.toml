@@ -1,0 +1,8 @@
+id = "odoo-xml-snippets"
+name = "Odoo XML Snippets"
+version = "0.1.0"
+schema_version = 1
+authors = ["Ali Ns <aliimrandtb@gmail.com>"]
+description = "XML and QWeb snippets for building Odoo views in Zed."
+repository = "https://github.com/alienyst/odoo-snippets"
+snippets = "./snippets/xml.json"
